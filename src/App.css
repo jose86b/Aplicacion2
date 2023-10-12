@@ -6,6 +6,12 @@
   height: 40vmin;
   pointer-events: none;
 }
+.rojo{
+  background-color: red;
+}
+.verde{
+  background-color: green;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
